@@ -1,7 +1,7 @@
 # APIWhatsApp
 
 **Para que serve?**
->Essa Blibli de Python serve para que uma mensagem pode ser enviada para um qualquer número que esteja cadastrado no WhatsApp, independente se tal número seja adicionado ou não aos contatos de quem está a enviando.
+>Essa Bliblioteca de Python serve para que uma mensagem pode ser enviada para um qualquer número que esteja cadastrado no WhatsApp, independente se tal número seja adicionado ou não aos contatos de quem está a enviando.
 
 **Por que eu usaria tal API?**
 >Caso um cliente queria dar um número de contato do WhatsApp da empresa no site, aplicativo ou outros meios na internet, basta gerar o link de contato para tirar a necessidade do usuário de digitar ou lembrar desse número.
