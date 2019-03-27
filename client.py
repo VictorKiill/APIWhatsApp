@@ -14,13 +14,7 @@ def main():
     num = num1 + num2 + num3
     print("")
 
-    while True:
-        msg = input("Digite a mensagem para ser enviada: ")
-        if msg == "":
-            print("Campo não preenchido!")
-            print("")
-        else:
-            break
+    msg = input("Digite a mensagem para ser enviada(Não é obrigatório): ")
 
     print(enviarMensagem(num, msg))
 
