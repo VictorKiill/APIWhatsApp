@@ -11,4 +11,4 @@
 >Basta importar o arquivo apiWhatsApp.py no seu código, chamar a função enviarMensagem(num, msg), substituir "num" pelo número de celular do remetente e "msg" pela mensagem a ser enviada, depois de chamada a função retornará o link para enviar a mensagem. O link retornado redireciona o usuário à uma página da api do whatsapp e caso send seja clicado o WhatsApp Web será aberto, ou o aplicativo do WhatsApp caso o link seja aberto no smartphone, onde o mesmo poderá iniciar uma conversa com o remetente já com a mensagem pronta para o envio.
 
 **E se eu quiser apenas testar a API sem ter que criar um novo código?**
->Basta iniciar o client.py e informar o que é pedido que o link será gerado.
+>Basta iniciar o client.py, informar o que é pedido e o link será gerado.
